@@ -13,6 +13,8 @@
   import { locales } from 'ant-design-vue'
   const zhCN = locales.zh_CN
 
+
+
   export default {
     mixins: [AppDeviceEnquire],
     data () {
